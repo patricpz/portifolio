@@ -93,7 +93,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="./assets/images/projects/sistemafinanceiro.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-bio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/patricpz/Projeto-financeiro" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
